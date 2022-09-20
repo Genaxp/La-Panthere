@@ -2288,7 +2288,10 @@ pre code {
     margin-left: 0
 }
 
-
+.col-sm-12{
+    background: #464646;
+    border-radius: 50px;
+}
 
 @media (min-width:768px) {
     .col-sm-1,
