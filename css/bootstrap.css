@@ -2288,7 +2288,7 @@ pre code {
     margin-left: 0
 }
 
-.col-sm-12{
+.avant-plan{
     background: #464646;
     border-radius: 50px;
 }
@@ -2310,9 +2310,6 @@ pre code {
     }
     .col-sm-12 {
         width: 100%;
-        background : #464646;
-        border-radius: 50px;
-
     }
     .col-sm-11 {
         width: 91.66666667%
