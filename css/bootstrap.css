@@ -2288,6 +2288,8 @@ pre code {
     margin-left: 0
 }
 
+
+
 @media (min-width:768px) {
     .col-sm-1,
     .col-sm-10,
@@ -2304,7 +2306,10 @@ pre code {
         float: left
     }
     .col-sm-12 {
-        width: 100%
+        width: 100%;
+        background : #464646;
+        border-radius: 50px;
+
     }
     .col-sm-11 {
         width: 91.66666667%
