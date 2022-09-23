@@ -659,7 +659,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #221c1c!important;
 }
 
 .container {
@@ -710,6 +710,13 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    background: #3a2626;
+    border-radius: 25px;
+    @media (max-width: 767px) {
+        max-width: 75px;
+    }
+
+    
 }
 
 h2 {
