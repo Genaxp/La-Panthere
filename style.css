@@ -714,9 +714,7 @@ p {
     border-radius: 25px;
     @media (max-width: 767px) {
         max-width: 75px;
-    }
-
-    
+    }    
 }
 
 h2 {
