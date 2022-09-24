@@ -72,11 +72,11 @@ h1 {
 
 mark {
     color: #000;
-    background: #ff0
+    background: #ff0;
 }
 
 small {
-    font-size: 80%
+    font-size: 80%;
 }
 
 sub,
@@ -84,34 +84,37 @@ sup {
     position: relative;
     font-size: 75%;
     line-height: 0;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 sup {
-    top: -.5em
+    top: -.5em;
 }
 
 sub {
-    bottom: -.25em
+    bottom: -.25em;
 }
 
 img {
-    border: 0
+    border: 0;
+    width:25%;
+    height:auto;
+
 }
 
 svg:not(:root) {
-    overflow: hidden
+    overflow: hidden;
 }
 
 figure {
-    margin: 1em 40px
+    margin: 1em 40px;
 }
 
 hr {
     height: 0;
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
-    box-sizing: content-box
+    box-sizing: content-box;
 }
 
 pre {
